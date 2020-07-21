@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/andriod-studio/workSpace/open/app/.cxx/cmake/release/x86",
+  "command": "D:\\andriod-studio\\SDK\\ndk\\16.1.4479499\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android --gcc-toolchain=D:/andriod-studio/SDK/ndk/16.1.4479499/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=D:/andriod-studio/SDK/ndk/16.1.4479499/sysroot  -Dnative_lib_EXPORTS -ID:/andriod-studio/workSpace/OpenCV-android-sdk/sdk/native/jni/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -std=gnu++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\andriod-studio\\workSpace\\open\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\andriod-studio\\workSpace\\open\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

@@ -1,0 +1,16 @@
+# ninja log v5
+11	1653	612253234	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+1657	3210	612253236	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+0	31	0	clean	61797ac66a1c59f0
+134	2346	612287120	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+2346	4778	612287123	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+219	2345	612294425	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+2345	5055	612294428	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+213	2328	612518962	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+2328	4914	612518964	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+7	2169	612525196	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+2169	2637	612525196	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+47	2266	612530632	CMakeFiles/native-lib.dir/native-lib.cpp.o	5cb02c38247d62e5
+2267	5128	612530635	D:/andriod-studio/workSpace/open/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	1c57d7bffb50e52
+1	30	0	clean	61797ac66a1c59f0
+0	30	0	clean	61797ac66a1c59f0

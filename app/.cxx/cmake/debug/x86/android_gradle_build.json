@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "D:/andriod-studio/workSpace/open/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android --gcc-toolchain=D:/andriod-studio/SDK/ndk/16.1.4479499/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=D:/andriod-studio/SDK/ndk/16.1.4479499/sysroot -Dnative_lib_EXPORTS -ID:/andriod-studio/workSpace/OpenCV-android-sdk/sdk/native/jni/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem D:/andriod-studio/SDK/ndk/16.1.4479499/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\andriod-studio\\SDK\\ndk\\16.1.4479499\\build\\cmake\\android.toolchain.cmake",
+    "D:\\andriod-studio\\workSpace\\open\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\andriod-studio\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\andriod-studio\\workSpace\\open\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\andriod-studio\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\andriod-studio\\workSpace\\open\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommand": "D:\\andriod-studio\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\andriod-studio\\workSpace\\open\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1965427630",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "D:\\andriod-studio\\workSpace\\open\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\andriod-studio\\workSpace\\open\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "1965427630": {
+      "cppCompilerExecutable": "D:\\andriod-studio\\SDK\\ndk\\16.1.4479499\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+Executable : D:\andriod-studio\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\andriod-studio\workSpace\open\app\.cxx\cmake\debug\x86_64
+native-lib
+jvmArgs : 
+

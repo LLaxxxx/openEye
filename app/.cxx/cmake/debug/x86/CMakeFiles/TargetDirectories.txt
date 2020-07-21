@@ -1,0 +1,3 @@
+D:/andriod-studio/workSpace/open/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
+D:/andriod-studio/workSpace/open/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/andriod-studio/workSpace/open/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
